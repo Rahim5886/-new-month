@@ -1,0 +1,8 @@
+/* main Banner */
+h1{
+    font-size: 35px;
+    color: red;
+}
+.main Banner{
+    background-image:url(Banner_Image.png)
+}
