@@ -1,8 +1,13 @@
-/* main Banner */
-h1{
-    font-size: 35px;
-    color: red;
+#banner{
+    background-image: url(Banner_Image.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center;
+    
 }
-.main Banner{
-    background-image:url(Banner_Image.png)
+h1{
+    text-align: center;
+    font-size: 75px;
+    color: white;
+    padding: 100px;
 }
